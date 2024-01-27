@@ -1,0 +1,32 @@
+.details{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 40px;
+    
+    padding:0px 30px;
+    color:  #58595B;
+    position: relative;
+}
+
+.details .foto1{
+bottom: 550px;
+
+
+}
+.details .foto2{
+    top: 50%;
+}
+.details-item{
+padding: 45px 10px;
+}
+
+.write-up{
+    background-color:  #F2EBF4;
+    color: #58595B;
+    margin:30 0px;
+    padding-left: 180px;
+    padding-top: 30px;
+    text-align: left;
+}

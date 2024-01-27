@@ -1,0 +1,32 @@
+.intro{
+    display: flex;
+    padding: 20px 200px;
+    margin: 40px;
+    gap: 30px;
+    color: #000000;
+  font-family: open sans;
+   
+}
+
+.intro img{
+    height: 100%;
+    width: 5 0%;
+    color: 
+    #7B3B96;
+    filter: hue-rotate(85deg);
+}
+
+
+.intro-item{
+   padding: 50px 0px;
+}
+
+@media only screen and (max-width: 600px){
+    .intro{
+      background-image: url(".../Assets/main background.png");
+    }
+    .intro img{
+        width: 300px;
+        height: 200px;
+    }
+}

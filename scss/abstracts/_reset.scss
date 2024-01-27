@@ -1,0 +1,17 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+    * {
+    margin: 0;
+    font-family: Open Sans;
+  }
+  
+  body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+ 
+
+  input, button, textarea, select {
+    font: inherit;
+  }
